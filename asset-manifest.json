@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sentence-improvement-cn/static/css/main.4a740c4a.css",
+    "main.js": "/sentence-improvement-cn/static/js/main.5a63460e.js",
+    "static/js/787.077dab54.chunk.js": "/sentence-improvement-cn/static/js/787.077dab54.chunk.js",
+    "index.html": "/sentence-improvement-cn/index.html",
+    "main.4a740c4a.css.map": "/sentence-improvement-cn/static/css/main.4a740c4a.css.map",
+    "main.5a63460e.js.map": "/sentence-improvement-cn/static/js/main.5a63460e.js.map",
+    "787.077dab54.chunk.js.map": "/sentence-improvement-cn/static/js/787.077dab54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a740c4a.css",
+    "static/js/main.5a63460e.js"
+  ]
+}
