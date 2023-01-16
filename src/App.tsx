@@ -4,7 +4,6 @@ import DiffContent from "./components/DiffContent";
 import Placeholder from "./components/Placeholder";
 import Helmet from "react-helmet";
 import Footer from "./components/Footer";
-import TypeEffect from "./components/TypeEffect";
 
 const GPT_API_URL = "https://api.openai.com/v1/completions";
 
